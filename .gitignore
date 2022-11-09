@@ -1,0 +1,7 @@
+﻿.idea
+fos-web-api/.mvn
+fos-web-core/.mvn
+fos-web-rest/.mvn
+pos-web-api/.mvn
+pos-web-core/.mvn
+pos-web-rest/.mvn
