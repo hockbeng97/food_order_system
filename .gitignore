@@ -5,3 +5,15 @@ fos-web-rest/.mvn
 pos-web-api/.mvn
 pos-web-core/.mvn
 pos-web-rest/.mvn
+fos-web-api/mvnw
+fos-web-api/mvnw.cmd
+fos-web-core/mvnw
+fos-web-core/mvnw.cmd
+fos-web-rest/mvnw.cmd
+fos-web-rest/mvnw
+pos-web-api/mvnw
+pos-web-api/mvnw.cmd
+pos-web-core/mvnw
+pos-web-core/mvnw.cmd
+pos-web-rest/mvnw
+pos-web-rest/mvnw.cmd
